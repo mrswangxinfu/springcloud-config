@@ -1,2 +1,2 @@
 config:
-  info: welcome to config-dev
+  info: welcome to config-dev --master --version 1.0
