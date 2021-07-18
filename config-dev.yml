@@ -1,3 +1,3 @@
 config:
-  info: "welcome to config-dev --master --version 2.0"
+  info: "welcome to config-dev --master --version 3.0"
 from: hello
